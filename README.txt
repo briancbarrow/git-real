@@ -1,1 +1,1 @@
-Learning git through Git Real.
+Learning git through Git Real on CodeSchool.
